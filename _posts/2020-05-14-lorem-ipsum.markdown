@@ -4,9 +4,10 @@ title:  "Lorem Ipsum"
 date:   2020-05-14 05:10:39 -0300
 categories: test
 ---
+<img class="post-img" src="https://www.oficinadanet.com.br/imagens/post/25197/750xNximages.jpg.pagespeed.ic.23e50a812b.jpg" title="Ipsum">
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ullamcorper mollis velit id fermentum. Donec ipsum tellus, fringilla sagittis massa porttitor, porttitor malesuada tellus. Nullam faucibus vulputate metus in commodo. Aenean eu felis non nibh consectetur efficitur lacinia sit amet dui. Ut consequat dui vel sem faucibus, at malesuada mi cursus. Etiam sagittis metus at aliquam pharetra. Nunc eu velit feugiat, consequat elit ac, fringilla nisi. Vestibulum vehicula enim id interdum imperdiet. Etiam id leo at nisi luctus rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-<img class="post-img" src="https://www.oficinadanet.com.br/imagens/post/25197/750xNximages.jpg.pagespeed.ic.23e50a812b.jpg" title="Ipsum">
 
 Nullam vitae volutpat ligula. Nulla imperdiet ligula a congue posuere. Cras interdum sit amet dui id consectetur. Suspendisse potenti. Duis at ultricies orci. Vestibulum vitae est et quam vestibulum euismod. Nulla imperdiet lorem diam, vitae tincidunt turpis vehicula non. Cras dictum massa tellus, tempus pretium augue sodales sit amet. Nulla facilisi. Aliquam auctor placerat massa, et eleifend nulla facilisis volutpat. Morbi eleifend laoreet posuere. Vestibulum at auctor leo, a facilisis ex. Vestibulum vitae quam malesuada, aliquam magna imperdiet, scelerisque diam. Duis eget metus odio. Duis ultricies ultrices ipsum eu dictum.
 
